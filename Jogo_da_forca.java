@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String palavra = {"TIAGO","CLARISSE","BRUNO", "LUIZ", "DOUGLAS", "JOAO","PEDRO","MARIA", "BRUNA", "PAULO"};
+		String palavra[] = {"TIAGO","CLARISSE","BRUNO", "LUIZ", "DOUGLAS", "JOAO","PEDRO","MARIA", "BRUNA", "PAULO"};
 		String letraUsada = "";
 		String palavraAdivinhada = "";
 		String palavraEscolhida;
